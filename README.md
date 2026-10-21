@@ -2,7 +2,7 @@
 
 A portfolio project from my **Azure AI Fundamentals learning journey**. This Python command-line client connects to a Microsoft Foundry agent that explains Business Analysis concepts, including the Business Analysis Core Concept Model (BACCM).
 
-The Foundry agent is configured with concise Business Analysis instructions and a File search knowledge source. The repository contains the client and project documentation; the hosted agent, model deployment, and knowledge index remain configured in the Azure project. The screenshot shows text chat with voice mode turned off.
+The Foundry agent is configured with concise Business Analysis instructions and a guide to the Business Analysis Book of Knowledge (BABOK). The repository contains the client and project documentation; the hosted agent, model deployment, and knowledge index remain configured in the Azure project. The image shows text chat with voice mode turned off.
 
 > **Project status:** learning portfolio/demo. Azure resources are not included. You need access to a Microsoft Foundry project and a configured agent to run the client.
 
