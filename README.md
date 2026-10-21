@@ -115,7 +115,7 @@ This repository contains a local client, not an Azure-hosted web service. The Fo
 
 ## Learning reflection
 
-This project let me practice connecting a Python client to a hosted Foundry agent and using a knowledge source to support concise subject-specific answers. It also showed how an agent can explain a framework such as BACCM in a way that helps a user connect its concepts to a business context.
+This project lets me practice connecting a Python client to a hosted Foundry agent and using a knowledge source to support concise subject-specific answers. It also showed how an agent can explain a framework such as BACCM in a way that helps a user connect its concepts to a business context.
 
 ## References
 
